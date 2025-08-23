@@ -4,3 +4,5 @@ Population genetics tests:
 fst, dxy, pi - pixy
 
 History with WAT1 gene - has been identified previously.
+
+Need to do MK tests.
